@@ -9,10 +9,11 @@ This project is an experiment in using a web-based solution for viewing and inte
 
 **Tasks**
 - [X] Set-up [GoldenLayout](https://www.golden-layout.com) with some simple dummy containers.
-- [ ] Set-up a [Highcharts](http://www.highcharts.com) scatter plot of dummy data, and then integrate it into a single GoldenLayout container.
+- [ ] Set-up a [Highcharts](http://www.highcharts.com) scatter plot of dummy data, and then integrate it into a single GoldenLayout container. To accomplish this, annotate the highcharts/golden layout tutorial and continue project.
 - [ ] Set-up a [Slickgrid](http://github.com/mleibman/SlickGrid) table in a GoldenLayout container.
 - [ ] Load in a formatted data-set using Miso Project [Dataset](http://www.misoproject.com/dataset) and display it on the Highchart plot.
 - Determine how much flexibility is required to make this project useful. Outline an architecture that would be reasonable and outline the remaining steps.
 
 **References**
  - [Basics of GoldenLayout](https://golden-layout.com/tutorials/getting-started.html)
+
