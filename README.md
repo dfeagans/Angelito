@@ -16,4 +16,6 @@ This project is an experiment in using a web-based solution for viewing and inte
 
 **References**
  - [Basics of GoldenLayout](https://golden-layout.com/tutorials/getting-started.html)
-
+ - [Highcharts First Chart Example](http://www.highcharts.com/docs/getting-started/your-first-chart)
+ - [Highcharts Tutorial](https://golden-layout.com/tutorials/highcharts.html)
+ - [Highcharts jsFiddle](http://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/highcharts/demo/scatter/)
